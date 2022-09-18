@@ -21,4 +21,8 @@ public class Garcom extends Funcionario{
     public void trazerConta(){
         System.out.println("A conta deu: R$" + valorConta);
     }
+
+    public void trazerConta(int pessoas){
+        System.out.println("A conta deu: R$" + valorConta/pessoas +" para cada um " + "\nTotalizando: R$" + valorConta);
+    }
 }

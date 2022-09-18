@@ -12,12 +12,14 @@ public class Cardapio {
     };
 
     public void mostrarCardapio(){
+        int i = 0;
         Collections.sort(comidas);
         if(comidas.isEmpty()){
             System.out.println("Não há comidas no cardápio");
         } else{
             for(Comida comida: comidas){
-                System.out.println(comida.getNome() + " | Valor: " + comida.getValor() + " | Calorias: " + comida.getCalorias());
+                System.out.println(i + "-)" + comida.getNome() + " | Valor: " + comida.getValor() + " | Calorias: " + comida.getCalorias());
+                i++;
             }
         }
     }
