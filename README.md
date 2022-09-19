@@ -5,6 +5,8 @@ Esse projeto consiste em um sistema para um restaurant fictício, com o intuito 
 
 Também sera o nossa ativiade de avaliação (checkpoint II).
 
+- [UML do Projeto](https://miro.com/welcomeonboard/aVRsV1V6NGdQbEcyT0dNVXNNQzZJeTl5TGttenlWcWhxTkplTXVIZ0gxRTFSSFdvZTM5TE8zSThvU3Z6THZoMHwzNDU4NzY0NTIwMjMzMDgwMjkw?share_link_id=944291445457)
+
 
 
 ## Objetivo
